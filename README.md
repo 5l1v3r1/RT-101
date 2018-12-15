@@ -1,5 +1,7 @@
 # RT-101
 
+## This is just to log something
+[ 15/12/18 ] Uploaded stub source code.
 
 ## Just some words
 So here I'm posting the sources of my RAT, this was for private use so do not complain if it's not compatible with ur crypters, with mine works. After that remember that this codes are for study only and to understand how this program works... this RAT as been based on socket server NJRAT so this is stable and before someone start crying: this is NOT Quasar or NanoCore copied, it looks like them because Windows control are universal ... 
